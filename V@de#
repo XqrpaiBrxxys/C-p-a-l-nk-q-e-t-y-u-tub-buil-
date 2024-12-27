@@ -83,7 +83,7 @@ ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageLabel.BorderSizePixel = 0
 ImageLabel.Position = UDim2.new(0.0560515448, 0, -26.2637463, 0)
 ImageLabel.Size = UDim2.new(0.127630442, 0, 21.7752609, 0)
-ImageLabel.Image = "rbxassetid://114644874722039"
+ImageLabel.Image = "rbxassetid://1"
 
 UIAspectRatioConstraint_3.Parent = ImageLabel
 
